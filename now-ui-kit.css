@@ -44,6 +44,10 @@
 *::after {
   box-sizing: border-box; }
 
+.dropdown {
+  margin-top: 2px
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
